@@ -13,5 +13,4 @@ obj-$(CONFIG_TOUCHSCREEN_FTS)	+=  focaltech_esdcheck.o
 obj-$(CONFIG_TOUCHSCREEN_FTS)   +=  focaltech_i2c.o
 obj-$(CONFIG_TOUCHSCREEN_FTS)   +=  focaltech_sensor.o
 obj-$(CONFIG_TOUCHSCREEN_FTS)   +=  focaltech_flash/
-obj-$(CONFIG_TOUCHSCREEN_FTS)   +=  focaltech_test/
 obj-$(CONFIG_TOUCHSCREEN_FTS)   +=  focaltech_global/
